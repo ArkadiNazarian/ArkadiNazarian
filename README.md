@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arkadi</h1>
 <h3 align="center">Welcome to my GitHub page.</h3>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 - 🌱 I’m currently learning **Data Structures and Sofware Engineering**
 

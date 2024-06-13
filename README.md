@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **nazarianarkadi@gmail.com**
 
-- 📄 Know about my experiences [https://arkadi.vercel.app/](https://arkadi-portfolio.vercel.app/)
+- 📄 Know about my experiences [https://arkadi.vercel.app/](https://arkadi.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
